@@ -193,4 +193,4 @@ Rationale callbacks don't necessarily imply permission changes. To check for tho
 [11]: https://img.shields.io/badge/Android%20Weekly-%23446-yellow
 [12]: https://androidweekly.net/issues/issue-446
 [13]: https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg
-[14]: http://www.apache.org/licenses/LICENSE-2.0
+[14]: http://www.apache.org/licenses/LICENSE-2.0 
